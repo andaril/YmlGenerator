@@ -22,7 +22,7 @@ class Settings
      * Xml file encoding
      * @var string
      */
-    protected $encoding = 'windows-1251';
+    protected $encoding = 'utf-8';
 
     /**
      * Output file name. If null 'php://output' is used.
